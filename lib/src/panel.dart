@@ -11,6 +11,7 @@ import 'package:flutter/material.dart';
 import 'dart:math';
 
 import 'package:flutter/physics.dart';
+import 'package:flutter/rendering.dart';
 
 enum SlideDirection {
   UP,
